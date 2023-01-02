@@ -1,4 +1,4 @@
-#### Welcome! 
+### Welcome! 
 
 I'm Lorenzo Querol, a 4th year senior undergraduate student at De La Salle University - Manila (DLSU). I am currently taking up Bachelor of Science in Computer Science with specialization in Computer Systems Engineering.
 
@@ -9,3 +9,6 @@ I have participated in 2 research papers. If you are interested, please do take 
 - [Automated Cocoa Pod Borer Detection using an Edge Computing-based Deep Learning Algorithm](https://www.researchgate.net/publication/362080849_Automated_Cocoa_Pod_Borer_Detection_using_an_Edge_Computing-based_Deep_Learning_Algorithm)
 
 - [Applying Generative Adversarial Networks for Sticky Paper Trap Image Generation and Object Detector Performance Enhancement](https://www.researchgate.net/publication/362080593_Applying_Generative_Adversarial_Networks_for_Sticky_Paper_Trap_Image_Generation_and_Object_Detector_Performance_Enhancement)
+
+### Current Projects
+- Undergraduate thesis (Deep Learning and Mobile App Development for Disease Detection)
