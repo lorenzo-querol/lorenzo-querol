@@ -22,4 +22,4 @@ I want to make this an archive of all the projects I've done so far (Currently u
 
 ## ⚙️ Current Projects
 - Bachelor's thesis (artificial intelligence and mobile app development for disease detection)
-- Objection deteciton model integration into mobile application
+- Objection detection model integration into mobile application
