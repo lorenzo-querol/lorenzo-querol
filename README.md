@@ -2,7 +2,7 @@
 
 I want to make this an archive of all the projects I've done so far (Currently uploading them!)
 
-## About Me
+## 🚀 About Me
 
 🎓 I'm Lorenzo Querol, a fourth year senior undergraduate student at De La Salle University - Manila (DLSU), Philippines. I am currently taking up my Bachelors's degree in Computer Science with a specialization in Computer Systems Engineering.
 
@@ -12,7 +12,7 @@ I want to make this an archive of all the projects I've done so far (Currently u
 
 ✈️ I love to travel, specifically to Japan 🗾! I always want to experience the unique and diverse culture that the country has to offer, like eating local delicacies or traveling to the smaller, less known regions.
 
-## Achievements
+## 🏆 Achievements
 
 📰 I've participated in two research papers that were part of the American Society of Agricultural and Biological Engineers (ASABE) Annual Conference in 2022. If you're interested, please take your time to read them!
 
@@ -20,6 +20,6 @@ I want to make this an archive of all the projects I've done so far (Currently u
 
 - [Applying Generative Adversarial Networks for Sticky Paper Trap Image Generation and Object Detector Performance Enhancement](https://www.researchgate.net/publication/362080593_Applying_Generative_Adversarial_Networks_for_Sticky_Paper_Trap_Image_Generation_and_Object_Detector_Performance_Enhancement)
 
-## Current Projects
+## ⚙️ Current Projects
 - Bachelor's thesis (artificial intelligence and mobile app development for disease detection)
 - Objection deteciton model integration into mobile application
