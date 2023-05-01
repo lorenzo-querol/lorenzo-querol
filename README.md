@@ -21,5 +21,5 @@ I want to make this an archive of all the projects I've done so far (Currently u
 - [Applying Generative Adversarial Networks for Sticky Paper Trap Image Generation and Object Detector Performance Enhancement](https://www.researchgate.net/publication/362080593_Applying_Generative_Adversarial_Networks_for_Sticky_Paper_Trap_Image_Generation_and_Object_Detector_Performance_Enhancement)
 
 ## ⚙️ Current Projects
-- Bachelor's thesis (artificial intelligence and mobile app development for disease detection)
-- Objection detection model integration into mobile application
+- Bachelor's thesis (artificial intelligence and mobile app development for disease recognition)
+- Mobile application for on-device inference using YOLOv8 and ONNX Runtime
