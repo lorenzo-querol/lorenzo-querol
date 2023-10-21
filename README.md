@@ -10,7 +10,9 @@ I want to make this an archive of all the projects I've done so far (Currently u
 
 🎷 Outside of the academic and tech bubble, I like to play my saxophone and listen to jazz music. I also love to cook, work out, and play games! I am currently learning Japanese during my free time since I want to study there in the future.
 
-✈️ I love to travel, specifically to Japan 🗾! I always want to experience the unique and diverse culture that the country has to offer, like eating local delicacies or traveling to the smaller, less-known regions. **Currently, I am a research intern at Osaka University!**
+✈️ I love Japan! I always yearn to experience the unique and diverse culture that the country has to offer, like eating local delicacies or traveling to the smaller, lesser-known regions. 
+
+**Currently, I am a research intern at Osaka University's [Intelligence and Sensing Laboratory](https://www.is.ids.osaka-u.ac.jp/), working on generative AI!**
 
 ## 🏆 Achievements
 
