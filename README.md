@@ -1,7 +1,5 @@
 # Welcome! 👋
 
-I want to make this an archive of all the projects I've done so far (Currently uploading them).
-
 ## 🚀 About Me
 
 🎓 I'm a graduate of De La Salle University - Manila (DLSU), Philippines with a Bachelor's degree in Computer Science, majoring in Computer Systems Engineering.
@@ -12,7 +10,7 @@ I want to make this an archive of all the projects I've done so far (Currently u
 
 ✈️ I love Japan! I always yearn to experience the unique and diverse culture that the country has to offer, like eating local delicacies or traveling to the smaller, lesser-known regions. 
 
-**Currently, I'm applying as a graduate student at Osaka University's Graduate School of Information Science and Technology**
+**I'm currently a Master's student at Osaka University's Graduate School of Information Science and Technology**
 
 ## 🏆 Achievements
 
