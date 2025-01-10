@@ -2,19 +2,19 @@
 
 ## 🚀 About Me
 
-🎓 I'm a graduate of De La Salle University - Manila (DLSU), Philippines with a Bachelor's degree in Computer Science, majoring in Computer Systems Engineering.
+🎓 I graduated from De La Salle University - Manila (DLSU), Philippines, with a Bachelor's degree in Computer Science, majoring in Computer Systems Engineering.
 
-🙇 I'm interested in **machine learning, particularly in computer vision**. I'd like to create personal projects that allow others to learn more about this field in an intuitive manner.
+🙇 I have a keen interest in **machine learning and computer vision**.
 
-🎷 Outside of the academic and tech bubble, I like to play my saxophone and listen to jazz music. I also love to cook, work out, and play games! I am currently learning Japanese during my free time since I want to study there in the future.
+🎷 Outside of my academic and tech pursuits, I enjoy playing the saxophone and listening to jazz music. I also love cooking, exercising, and playing video games! Currently, I'm learning Japanese in my free time.
 
-✈️ I love Japan! I always yearn to experience the unique and diverse culture that the country has to offer, like eating local delicacies or traveling to the smaller, lesser-known regions. 
+✈️ Japan holds a special place in my heart! I want to experience the country’s unique and diverse culture, especially in smaller, lesser-known regions.
 
-**I'm currently a Master's student at Osaka University's Graduate School of Information Science and Technology**
+**I am currently a Master's student at Osaka University's Graduate School of Information Science and Technology.**
 
 ## 🏆 Achievements
 
-📰 Check out my [website](https://lorenzo-querol.github.io) to get a better look of my achievements and publications.
+📰 Visit my [website](https://lorenzo-querol.github.io) to learn more about my achievements and publications.
 
 ## ⚙️ Current Projects
-- None as of the moment.
+- None at the moment.
