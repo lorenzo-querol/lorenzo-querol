@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I graduated from De La Salle University - Manila (DLSU), Philippines, with a Bachelor's degree in Computer Science, majoring in Computer Systems Engineering.
+🎓 Bachelor's degree in Computer Science, majoring in Computer Systems Engineering, De La Salle University - Manila (DLSU), Philippines.
+
+🎓 Master's degree in Information Science, majoring in Computer Science, The University of Osaka, Japan. 
 
 🙇 I have a keen interest in **machine learning and computer vision**.
 
@@ -10,7 +12,7 @@
 
 ✈️ Japan holds a special place in my heart! I want to experience the country’s unique and diverse culture, especially in smaller, lesser-known regions.
 
-**I am currently a Master's student at Osaka University's Graduate School of Information Science and Technology.**
+**Currently a PhD student at The University of Osaka's Graduate School of Information Science and Technology.**
 
 ## 🏆 Achievements
 
